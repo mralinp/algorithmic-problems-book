@@ -1,4 +1,4 @@
-<div text-align="center"><img src="./docs/book-cover.png"/></div>
+<p align="center"><img src="./docs/book-cover.png" width="300px"/></p>
 
 # Algorithmic problems
 
